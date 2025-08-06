@@ -1,13 +1,13 @@
 **Appendix B: Reproducibility and Code**
 This repository contains the supplementary code, data, and documentation for Appendix B of our paper. It is intended to ensure full transparency and reproducibility of the computational methods, simulations, and statistical analyses underlying our key findings.
 
-📘 Overview
+- Overview
 The research explores the hypotheses of the IIM (Integrative Information Model) using a combination of in silico simulations and empirical data. Our methodology spans quantum computing simulations, machine learning, Bayesian modeling, and bioinformatics pipelines.
 
-🧪 Methods and Models
+- Methods and Models
 We employed a range of advanced techniques across different domains:
 
-🧬 Biological & Statistical Models
+- Biological & Statistical Models
 Bayesian Model Comparison for hypothesis testing
 
 Hierarchical Bayesian Modeling for joint inference
@@ -16,12 +16,12 @@ Polynomial & Random Forest Regressions for predictive modeling
 
 Monte Carlo Simulations for theoretical confirmation
 
-🧠 Computational Simulations
+- Computational Simulations
 Discrete 4-Qubit Simulations using quantum-inspired models
 
 Continuous-variable Models to explore nonlinear dynamics
 
-🧬 Bioinformatics Pipeline
+- Bioinformatics Pipeline
 Custom pipeline built on:
 
 OrthoFinder
@@ -32,7 +32,7 @@ MAFFT
 
 Executed via a scalable cloud computing platform
 
-⚙️ Setup Instructions
+- Setup Instructions
 Clone this repository:
 
 bash
