@@ -1,0 +1,22 @@
+# Core scientific computing
+numpy
+scipy
+pandas
+
+# Astronomy and Astrophysics
+astropy
+astroquery
+libstempo
+
+# Bayesian Statistics and ML
+pymc
+arviz
+statsmodels
+scikit-learn
+
+# Quantum Computing Simulation
+qutip
+
+# Plotting
+matplotlib
+seaborn
