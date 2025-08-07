@@ -50,9 +50,6 @@ It extends IIM Hypothesis #2 (variable constants) by embedding them within a **n
 
 ---
 
-
----
-
 ## 🛠 Requirements
 
 See [`requirements.txt`](./requirements.txt) for all dependencies.
