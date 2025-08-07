@@ -1,4 +1,4 @@
-# **"Spacetime Coherence Fluctuation from Δc"**
+# **SPACETIME COHERENCE FLUCTUATION FROM VARIABLE 𝐜**
 
 🧪 Objective  
 To investigate whether the speed of light (𝑐) varies with gravitational potential, and whether such variation can cause coherent timing fluctuations detectable in Pulsar Timing Array (PTA) data or be derived from shifts in other physical constants.
