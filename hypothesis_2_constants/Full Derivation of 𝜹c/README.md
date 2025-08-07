@@ -3,13 +3,19 @@
 🧪 Objective  
 To investigate whether the speed of light (𝑐) varies with gravitational potential, and whether such variation can cause coherent timing fluctuations detectable in Pulsar Timing Array (PTA) data or be derived from shifts in other physical constants.
 
+---
+
 📂 Contents   
 • `SCF_Model_BayesTests.ipynb` — Jupyter notebook for PTA signal model testing and direct theoretical derivation of (𝑐).  
 • `FIGURE13_variable_c_profiles.png` — Plot comparing standard vs. variable-𝑐 predictions in curved spacetime.  
 
+---
+
 🔗 Release Access  
 📥 Download Full Derivation & Simulation Assets:  
 👉 [GitHub Release: Delta(c)](https://github.com/IIMParadigm/The-IIM-Experiments/releases/tag/Delta(c))
+
+---
 
 🔬 Method Summary  
 The experiment began by hypothesizing that a variable speed of light (𝑐) would induce quasi-periodic, decaying residuals in PTA datasets:
