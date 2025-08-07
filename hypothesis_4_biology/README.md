@@ -2,7 +2,7 @@
 
 ## 🔍 Overview
 
-**IIM Hypothesis #4** challenges the conventional evolutionary model of macro-evolution and proposes an alternative, falsifiable framework grounded in **Theotelic Invention** — a concept of intentionally bounded, information-driven biological emergence. In this view, what is traditionally labeled as "macro-evolution" is more accurately described as the episodic materialization of new biological "kinds" within a finite and pre-structured informational space defined by **𝑭𝑭(𝑷𝑷)**.
+**IIM Hypothesis #4** challenges the conventional evolutionary model of macro-evolution and proposes an alternative, falsifiable framework grounded in **Theotelic Invention** — a concept of intentionally bounded, information-driven biological emergence. In this view, what is traditionally labeled as "macro-evolution" is more accurately described as the episodic materialization of new biological "kinds" within a finite and pre-structured informational space defined by **𝑭(𝑷)**.
 
 This hypothesis builds directly on prior IIM findings, particularly the relationship between **irreducible mathematical structures (e.g., prime numbers)** and **informational constants in physics and biology**. Just as prime numbers emerge from an infinite but discretely ordered structure, so too do new biological kinds appear as irreducible, unpredictable, yet patterned bursts — not continuous evolutionary gradients.
 
