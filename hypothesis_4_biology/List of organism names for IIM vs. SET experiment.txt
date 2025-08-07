@@ -1,0 +1,102 @@
+Here are the common names for the species in your list.
+
+1.  **_Acinonyx jubatus_**: Cheetah
+2.  **_Acomys cahirinus_**: Cairo spiny mouse
+3.  **_Acomys mullah_**: Mullah spiny mouse
+4.  **_Akodon montensis_**: Montane akodont (a type of field mouse)
+5.  **_Akodon affinis_**: Colombian grass mouse
+6.  **_Alcelaphus buselaphus_**: Hartebeest
+7.  **_Microtus fortis fortis_**: Reed vole
+8.  **_Microtus maximowiczii_**: Maximowicz's vole
+9.  **_Microtus montebelli_**: Japanese grass vole
+10. **_Alouatta belzebul_**: Red-handed howler monkey
+11. **_Cercopithecus lhoesti_**: L'Hoest's monkey
+12. **_Alouatta juara_**: Juruá red howler monkey
+13. **_Anomalurus pelii_**: Pel's scaly-tailed squirrel
+14. **_Anomalurus pusillus_**: Dwarf scaly-tailed squirrel
+15. **_Eothenomys olitor_**: Pére David's vole
+16. **_Antilocapra americana_**: Pronghorn
+17. **_Apodemus agrarius_**: Striped field mouse
+18. **_Arvicanthis somalicus_**: Somalian unstriped grass rat
+19. **_Ateles belzebuth_**: White-bellied spider monkey
+20. **_Balaenoptera acutorostrata_**: Common minke whale
+21. **_Balaenoptera bonaerensis_**: Antarctic minke whale
+22. **_Balaenoptera borealis_**: Sei whale
+23. **_Bandicota indica_**: Greater bandicoot rat
+24. **_Bandicota bengalensis_**: Lesser bandicoot rat
+25. **_Balionycteris maculata_**: Spotted-winged fruit bat
+26. **_Balaenoptera physalus_**: Fin whale
+27. **_Bassaricyon gabbii_**: Northern olingo
+28. **_Blarina brevicauda_**: Northern short-tailed shrew
+29. **_Bison schoetensacki_**: Schoetensack's bison (an extinct steppe bison)
+30. **_Bison bison_**: American bison
+31. **_Bos taurus_**: Domestic cattle
+32. **_Bubalus quarlesi_**: Lowland anoa (a type of dwarf buffalo)
+33. **_Cacajao calvus ucayalii_**: Red-and-white uakari (a type of monkey)
+34. **_Calyptophractus retusus_**: Chacoan pygmy armadillo (or greater fairy armadillo)
+35. **_Canis lupus_**: Gray wolf
+36. **_Capreolus pygargus tianschanicus_**: Siberian roe deer
+37. **_Carollia castanea_**: Chestnut short-tailed bat
+38. **_Callithrix pygmaea_**: Pygmy marmoset
+39. **_Chinchilla lanigera_**: Long-tailed chinchilla
+40. **_Chlorocebus pygerythrus_**: Vervet monkey
+41. **_Eptesicus nilssonii_**: Northern bat
+42. **_Crocidura tanakae_**: Taiwanese white-toothed shrew
+43. **_Dactylopsila trivirgata_**: Striped possum
+44. **_Delphinus capensis_**: Long-beaked common dolphin
+45. **_Sciurus yucatanensis_**: Yucatan squirrel
+46. **_Episoriculus caudatus_**: Hodgsons's brown-toothed shrew
+47. **_Episoriculus leucops_**: Long-tailed brown-toothed shrew
+48. **_Equus hemionus_**: Onager (or Asiatic wild ass)
+49. **_Eubalaena glacialis_**: North Atlantic right whale
+50. **_Exilisciurus exilis_**: Pygmy squirrel
+51. **_Euphractus sexcinctus_**: Six-banded armadillo
+52. **_Galago moholi_**: Mohol bushbaby
+53. **_Galidictis fasciata_**: Broad-striped Malagasy mongoose
+54. **_Gorilla beringei_**: Eastern gorilla
+55. **_Gorilla gorilla gorilla_**: Western lowland gorilla
+56. **_Grammomys selousi_**: Selous's thicket rat
+57. **_Hippocamelus antisensis_**: Taruca (or North Andean deer)
+58. **_Hippopotamus amphibius_**: Hippopotamus
+59. **_Hoolock hoolock_**: Western hoolock gibbon
+60. **_Homo sapiens neanderthalensis_**: Neanderthal
+61. **_Homo sapiens_**: Human (modern)
+62. **_Homo sp. Altai_**: Denisovan
+63. **_Hsunycteris thomasi_**: Thomas's nectar bat
+64. **_Lasionycteris noctivagans_**: Silver-haired bat
+65. **_Leopardus pardalis_**: Ocelot
+66. **_Lepilemur jamesi_**: James' sportive lemur
+67. **_Potamochoerus porcus_**: Red river hog
+68. **_Prionailurus bengalensis euptilurus_**: Amur leopard cat
+69. **_Proechimys cuvieri_**: Cuvier's spiny rat
+70. **_Proechimys echinothrix_**: Bristle-spined rat
+71. **_Propithecus tattersalli_**: Golden-crowned sifaka (a type of lemur)
+72. **_Rangifer tarandus_**: Reindeer (or Caribou)
+73. **_Puma concolor_**: Puma (or Cougar, Mountain lion)
+74. **_Rattus norvegicus_**: Brown rat (or Norway rat)
+75. **_Saguinus geoffroyi_**: Geoffroy's tamarin
+76. **_Macrotus californicus_**: California leaf-nosed bat
+77. **_Manis mysteria_**: A newly proposed species of pangolin
+78. **_Marmota himalayana_**: Himalayan marmot
+79. **_Megaerops niphanae_**: Ratanaworabhan's fruit bat
+80. **_Megaloglossus azagnyi_**: Azagny's fruit bat
+81. **_Microcebus berthae_**: Madame Berthe's mouse lemur
+82. **_Microcebus ravelobensis_**: Golden-brown mouse lemur
+83. **_Microsciurus flaviventer_**: Amazon dwarf squirrel
+84. **_Praomys delectorum_**: Delectable soft-furred mouse
+85. **_Tamias canipes_**: Gray-footed chipmunk
+86. **_Tapirus terrestris_**: South American tapir
+87. **_Thamnomys kempi_**: Kemp's thicket rat
+88. **_Tlacuatzin canescens_**: Grayish mouse opossum
+89. **_Toromys rhipidurus_**: Fierce thorny rat
+90. **_Trachypithecus obscurus_**: Dusky leaf monkey
+91. **_Tragelaphus spekii_**: Sitatunga (a swamp-dwelling antelope)
+92. **_Tursiops australis_**: Burrunan dolphin
+93. **_Uropsilus soricipes_**: Chinese shrew mole
+94. **_Ursus thibetanus mupinensis_**: Asiatic black bear
+95. **_Nycticebus pygmaeus_**: Pygmy slow loris
+96. **_Zyzomys argurus_**: Common rock-rat
+97. **_Ziphius cavirostris_**: Cuvier's beaked whale
+98. **_Zalophus californianus_**: California sea lion
+99. **_Varecia variegata variegata_**: Black-and-white ruffed lemur
+100. **_Varecia variegata_**: Black-and-white ruffed lemur
