@@ -1,24 +1,24 @@
 # **GRAVITATIONAL WAVEFORM MODULATION FROM VARIABLE G**
 
-🧪 Objective  
+## 🧪 Objective  
 To investigate whether the gravitational constant (G) subtly varies with curvature or gravitational potential and whether such variation affects gravitational waveforms and cosmological dynamics.
 
 ---
 
-📂 Contents  
+## 📂 Contents  
 • `G_variation_model.txt` — Full derivation and pseudocode exploring variable-G effects.  
 • `delta_G_waveform_modulation.ipynb` — Simulations comparing LIGO/Virgo waveform templates with variable-G scenarios.  
 • `FIGURE14_variable_G_waveform.png` — Visual of predicted waveform modulations due to ΔG.
 
 ---
 
-🔗 Release Access  
+## 🔗 Release Access  
 📥 Download Full Derivation & Simulation Assets:  
 👉 [https://github.com/IIMParadigm/The-IIM-Experiments/blob/main/hypothesis_2_constants/Full%20Derivation%20of%20%CE%B4G/Full_Deriviation_of_%CE%B4G.ipynb]
 
 ---
 
-🔬 Method Summary  
+## 🔬 Method Summary  
 This experiment explores the hypothesis that G may not be truly constant but modulates with large-scale curvature. Proposed form:
 
 \[
