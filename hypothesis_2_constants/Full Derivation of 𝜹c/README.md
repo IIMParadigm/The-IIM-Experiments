@@ -1,7 +1,4 @@
-Δc — Variable Speed of Light (𝑐)
-This folder contains the derivation, simulation code, and data outputs for the experiment:
-
-**"Spacetime Coherence Fluctuation from Variable 𝑐 (Δc)"**, supporting **Hypothesis #2** of the *Irreducible Intent Model (IIM)*.
+## **"Spacetime Coherence Fluctuation from Δc"**
 
 🧪 Objective  
 To investigate whether the speed of light (𝑐) varies with gravitational potential, and whether such variation can cause coherent timing fluctuations detectable in Pulsar Timing Array (PTA) data or be derived from shifts in other physical constants.
