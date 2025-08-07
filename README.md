@@ -33,8 +33,11 @@ To replicate the analyses, you will need to set up the computational environment
     ```
 
 3.  **Install Python dependencies:**
-    The `requirements.txt` file lists all necessary Python libraries.
+    This project uses multiple distinct software environments. Each hypothesis folder that requires a specific set of Python libraries contains its own `requirements.txt` file. You must install the dependencies for each part of the analysis you wish to run.
+
+    For example, to run the analysis for Hypothesis 1, navigate to that folder and install its dependencies:
     ```bash
+    cd hypothesis_1_entropy
     pip install -r requirements.txt
     ```
 4.  **Install external software:**
