@@ -65,4 +65,4 @@ Consistent with theological formulation in Isaiah 40:28–31 and Rev. 22:1–2.
 If you use this hypothesis, modeling framework, or associated simulation code in your research, please cite:
 [Your Name(s)]. (2025).
 "Reclaiming Purpose in Science: Divine Teleology and the Irreducible Intent Model."
-https://github.com/IIMParadigm/The-IIM-Experiments/releases/tag/Delta(S)
+[https://github.com/IIMParadigm/The-IIM-Experiments/blob/main/hypothesis_1_entropy/IIMHypothesis_1%2BOthers.ipynb]
