@@ -119,3 +119,4 @@ This hypothesis synthesizes theological foundations, mathematical logic, and emp
 ├── Hypothesis_4_IIM_MacroEvolution.ipynb   # Main notebook with full model (NO OUTPUTS)
 ├── README.md                               # This file
 ├── Screenshot ()                           # Output of models
+├── requirements for ().txt                 # software enviornment requirement files
