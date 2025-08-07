@@ -13,8 +13,9 @@ This appendix serves as the integrative capstone for the IIM, bringing together 
 
 ## 📂 Repository Contents
 Folder / File	Description
-- iim_gravity_model_ugc12632.ipynb / Jupyter notebook implementing the IIM scalar field model to fit real galaxy rotation data (SPARC database).
+- .ipynb / Jupyter notebook implementing the IIM scalar field model to fit real galaxy rotation data (SPARC database).
 - requirements for () / software environment requirement for ipynb file.
+- Results from () / screencaptures of ipynb file results. 
 
 ---
 
