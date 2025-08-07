@@ -1,4 +1,4 @@
-# Δα/α Simulation — Variable Fine-Structure Constant
+# Δα — Variable Fine-Structure Constant
 
 This folder contains the derivation, simulation, and data outputs for the experiment:
 
