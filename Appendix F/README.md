@@ -14,6 +14,7 @@ This appendix serves as the integrative capstone for the IIM, bringing together 
 ## 📂 Repository Contents
 Folder / File	Description
 - iim_gravity_model_ugc12632.ipynb / Jupyter notebook implementing the IIM scalar field model to fit real galaxy rotation data (SPARC database).
+- requirements for () / software environment requirement for ipynb file.
 
 ---
 
@@ -58,7 +59,7 @@ This appendix bridges metaphysics and empiricism. The IIM's core claims—intent
 ---
 
 ## 🛠 Requirements
-See requirements.txt for all Python dependencies (e.g., pymc, numpy, matplotlib, scipy, qutip, diffusers, transformers, etc.)
+See the respective requirements for ().txt for all the Python dependencies (e.g., pymc, numpy, matplotlib, scipy, qutip, diffusers, transformers, etc.)
 
 ---
 
