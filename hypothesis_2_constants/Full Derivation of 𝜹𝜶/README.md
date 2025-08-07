@@ -1,4 +1,4 @@
-# Δα — Variable Fine-Structure Constant
+# BLACK HOLE SPECTRAL SHIFT FROM VARIABLE 𝜶
 
 This folder contains the derivation, simulation, and data outputs for the experiment:
 
