@@ -60,7 +60,10 @@ This appendix bridges metaphysics and empiricism. The IIM's core claims—intent
 
 ## 🛠 Requirements
 See the respective requirements for ().txt for all the Python dependencies (e.g., pymc, numpy, matplotlib, scipy, qutip, diffusers, transformers, etc.)
-The galaxy rotation data comes from the SPARC database (Lelli et al., 2016), using "UGC12632_rotmod.dat", which you can download from http://astroweb.cwru.edu/SPARC/.
+
+The rotation curve data for the galaxy UGC 12632 (`UGC12632_rotmod.dat`), used in the extended analysis of the Appendix F, was obtained from the Spitzer Photometry and Accurate Rotation Curves (SPARC) database.
+If you use this data, please cite the original paper:
+* Lelli, F., McGaugh, S. S., & Schombert, J. M. (2016). SPARC: Mass Models for 175 Disk Galaxies with Spitzer Photometry and Accurate Rotation Curves. *The Astronomical Journal*, 152(6), 157. [Link to paper](https://ui.adsabs.harvard.edu/abs/2016AJ....152..157L/abstract)
 
 ---
 
