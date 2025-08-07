@@ -4,7 +4,7 @@
 
 This repository contains the official code, data, and analysis notebooks for the paper: **"Reclaiming Purpose in Science: Divine Teleology and the Irreducible Intent Model"**.
 
-The Irreducible Intent Model (IIM) is a proposal for a new scientific paradigm grounded in the axiom that reality is a projection of God's Will. This repository provides the necessary materials to reproduce the key findings presented in the paper, including the analysis of astrophysical and genomic data.
+The Irreducible Intent Model (IIM) is a proposal for a new scientific paradigm grounded in the axiom that reality is a projection of Jehovah God's Will. This repository provides the necessary materials to reproduce the key findings presented in the paper, including the analysis of astrophysical and genomic data.
 
 ## Repository Structure
 
