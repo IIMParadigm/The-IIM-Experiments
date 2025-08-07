@@ -60,6 +60,7 @@ This appendix bridges metaphysics and empiricism. The IIM's core claims—intent
 
 ## 🛠 Requirements
 See the respective requirements for ().txt for all the Python dependencies (e.g., pymc, numpy, matplotlib, scipy, qutip, diffusers, transformers, etc.)
+The galaxy rotation data comes from the SPARC database (Lelli et al., 2016), using "UGC12632_rotmod.dat", which you can download from http://astroweb.cwru.edu/SPARC/.
 
 ---
 
