@@ -1,5 +1,5 @@
 
-# **"Quantum Energy Shift from Variable ℏ (Δℏ)"**
+# **"HAWKING TEMPERATURE DEVIATION FROM VARIABLE Δℏ"**
 
 🧪 Objective  
 To test whether the reduced Planck constant (ℏ) varies slightly with gravitational potential and whether this variation induces detectable shifts in quantum systems.
