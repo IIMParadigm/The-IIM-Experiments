@@ -50,8 +50,8 @@ This challenges the Standard Evolutionary Theory (SET), which predicts a relativ
 
 This aligns with mathematical constructs like:
 
-> 𝑹𝑹𝑹 → 𝑼𝑼𝑼 → 𝑰𝑰𝑰  
-> *(A mapping of Real → Universal → Informational spaces, similar to AdS/CFT duality)*
+> RG → UV → IR  
+> *(which is similar to AdS/CFT duality)*
 
 ---
 
