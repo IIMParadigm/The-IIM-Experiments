@@ -10,12 +10,11 @@ The Irreducible Intent Model (IIM) is a proposal for a new scientific paradigm g
 
 The project is organized into folders corresponding to the four primary hypotheses tested in the paper:
 
+* **/data/**: Contains smaller datasets used in the analyses.
 * **/hypothesis_1_entropy/**: Simulations and analysis for "Thermodynamic Projection as Entropic Illusion."
 * **/hypothesis_2_constants/**: Analysis of astrophysical data to detect variations in fundamental constants (G, α, ħ, c).
 * **/hypothesis_3_quantum_lod/**: Simulations for "Condensed Matter as LOD from Quantum Backreaction."
 * **/hypothesis_4_biology/**: Bioinformatics pipeline and statistical analysis for "Macro-Evolution as Epistemological Misnomer."
-* **/data/**: Contains smaller datasets used in the analyses.
-* **/scripts/**: Contains any shared Python helper scripts.
 
 ## Installation and Setup
 
