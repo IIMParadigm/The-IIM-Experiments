@@ -12,10 +12,10 @@ This appendix serves as the integrative capstone for the IIM, bringing together 
 ---
 
 ## 📂 Repository Contents
-Folder / File	Description
+File / File	Description
 - .ipynb / Jupyter notebook implementing the IIM scalar field model to fit real galaxy rotation data (SPARC database).
-- requirements for () / software environment requirement for ipynb file.
-- Results from () / screencaptures of ipynb file results. 
+- requirements for ().txt / software environment requirement for ipynb file.
+- Results from ().png / screencaptures of ipynb file results. 
 
 ---
 
